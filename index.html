@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta http-equiv='cache-control' content='no-cache'> 
+        <meta http-equiv='expires' content='0'> 
+        <meta http-equiv='pragma' content='no-cache'>
         <meta charset="utf-8">
         <title>Napervillepol Election Centre</title>
         <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
@@ -146,8 +149,44 @@
             }).addTo(map);
             let url = 'https://raw.githubusercontent.com/Napervillpol/MN-1st-District-Special/main/Precincts_Output.geojson';
             let url2 = 'https://raw.githubusercontent.com/Napervillpol/MN-1st-District-Special/main/Counties_Output.geojson';
+            let url3 ='https://raw.githubusercontent.com/Napervillpol/MN-1st-District-Special/main/Poutput.json';
+            let url4 ='https://raw.githubusercontent.com/Napervillpol/MN-1st-District-Special/main/coutput.json';
+            
+           
+                
+           
+
+            
+                
+           
+            const response3 = fetch(url3).then(response3 => response3.json()).then(response3 => {
             const response = fetch(url).then(response => response.json()).then(response => {
-                            
+            let len =0 
+            len =response.features.len;
+           
+            let DVOTE=0;
+            let RVOTE=0;
+            let TVOTE=0;
+           
+       
+                for ( var i in response.features) {
+                    
+                    DVOTE += parseInt(response.features[i].properties.DEM_VOTES)
+                    RVOTE += parseInt(response.features[i].properties.GOP_VOTES)
+                    TVOTE += parseInt(response.features[i].properties.TOTAL_VOTES)
+                   
+                    for ( var j in response.features) {
+                        
+                        if(response.features[i].properties.ID == response3['ID'][j]){
+                        
+                            response.features[i].properties.DEM_VOTES = response3['Ettinger - DFL'][j]
+                            response.features[i].properties.GOP_VOTES =  response3['Finstad - R'][j]
+                            response.features[i].properties.TOTAL_VOTES = response3['Total'][j]
+                            response.features[i].properties.MARGIN = (response3['Ettinger - DFL'][j]-response3['Finstad - R'][j])/ response3['Total'][j]
+                        }
+                    }
+                
+                }         
             geojson = L.geoJson(response,
             {
                
@@ -157,29 +196,35 @@
             });
             
             
-            let len =0 
-            len =response.features.len;
-           
-            let DVOTE=0;
-            let RVOTE=0;
-            let TVOTE=0;
-                for ( var i in response.features) {
-                    
-                    DVOTE += parseInt(response.features[i].properties.DEM_VOTES)
-                    RVOTE += parseInt(response.features[i].properties.GOP_VOTES)
-                    TVOTE += parseInt(response.features[i].properties.TOTAL_VOTES)
-                    
-                
-                }
+            
                 
             document.getElementById("summary").innerHTML = "<b>Total</b>" + '<br />'+ 'Brad Finstad:&nbsp;'+ RVOTE + '&nbsp&nbsp('+Math.round(RVOTE/(TVOTE)*100)+'%)'+'</b><br />' + 'Jeff Ettinger: &nbsp;' + DVOTE +'&nbsp&nbsp('+Math.round(DVOTE/(TVOTE)*100)+'%)'
             
             
             map.addLayer(geojson)
-      
+        })
         })
         const response2 = fetch(url2).then(response2 => response2.json()).then(response2 => {
-                            
+            const response4 = fetch(url4).then(response4 => response4.json()).then(response4 => {                
+            for ( var i in response2.features) {
+                    
+                  
+                for ( var j in response2.features) {
+                        
+                        if(response2.features[i].properties.COUN == response4['County Code'][j]){
+                        
+                            response2.features[i].properties.DEM_VOTES = response4['Ettinger - DFL'][j]
+                            response2.features[i].properties.GOP_VOTES =  response4['Finstad - R'][j]
+                            response2.features[i].properties.TOTAL_VOTES = response4['Total'][j]
+                            response2.features[i].properties.MARGIN = response4['Margin'][j]
+                        }
+                    }
+                    
+                
+                }         
+            
+            
+            
                             geojson2= L.geoJson(response2,
                             {
                                
@@ -189,8 +234,8 @@
                             })
                            
                                              
-                          
-                        })      
+                        })                
+        })      
 
 
              document.getElementById("BCounty").addEventListener("click", function() {
@@ -219,7 +264,7 @@
 			    d < -.1  ? '#dd6e60' :
 			    d < -.05  ? '#e7846e' :
                 d < 0 ? '#f09a7b' :
-                '#fae194';
+                '#ccc9c0';
 	    }
 
         function getColorP(d) {
