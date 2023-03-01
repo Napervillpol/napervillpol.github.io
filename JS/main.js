@@ -223,7 +223,7 @@ reset = function () {
   document.getElementById("Lightfoot_votes").innerHTML =
     Lightfoot_Total.toLocaleString("en-US");
   document.getElementById("Lightfoot_percent").innerHTML = (
-    divide(Vallas_Total, Votes_Total) * 100
+    divide(Lightfoot_Total, Votes_Total) * 100
   ).toFixed(2);
 
   document.getElementById("Sawyer_votes").innerHTML =
