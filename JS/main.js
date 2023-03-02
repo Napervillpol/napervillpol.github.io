@@ -65,9 +65,9 @@ function style(feature) {
   return {
     weight: 0.5,
     opacity: 0.7,
-    color: getColor(feature.properties.Winner),
+    color: getColor(feature.properties.Winner,feature.properties.Margin),
     fillOpacity: 0.7,
-    fillColor: getColor(feature.properties.Winner),
+    fillColor: getColor(feature.properties.Winner,feature.properties.Margin)
   };
 }
 function resetHighlight(e) {
@@ -90,8 +90,30 @@ function onEachFeature(feature, layer) {
   });
 }
 
-function getColor(d) {
+function getColor(d,c) {
   return d == "Green"
+    ? choropleth(c,'#e3342f','#871612','#b41e18','#e0251f','#e7514b','#ed7c78,','#f3a8a5','#f9d3d2')
+    : d == "King"
+    ? choropleth(c,'#613305','#914d08','#c2660a','#f2800d','#f5993d','#f7b36e','#facc9e','#fce6cf')
+    : d == "Buckner"
+    ? choropleth(c,'#665c00','#998a00','#ccb800','#ffe600','#ffeb33','#fff066','#fff599','#fffacc')
+    : d == "Wilson"
+    ? choropleth(c,'#174f2e','#227745','#2d9f5c','#38c774','#60d28f','#88ddab','#afe9c7','#d7f4e3')
+    : d == "Johnson"
+    ? choropleth(c,'#4dc0b5','#277269','#34988c','#41beaf','#67cbbf','#8dd8cf','#b3e5df','#d9f2ef')
+    : d == "Vallas"
+    ? choropleth(c,'#0c365a','#125087','#186bb4','#1f86e0','#4b9ee7','#78b6ed','#a5cff3','#d2e7f9')
+    : d == "Lightfoot"
+    ? choropleth(c,'#19214d','#253174','#31419b','#3d51c2','#6474ce','#8b97da','#b1b9e7','#d8dcf3')
+    : d == "Sawyer"
+    ? choropleth(c,'#2c1056','#421881','#5820ac','#6e28d7','#8b53df','#a87ee7','#c5a9ef','#e2d4f7')
+    : d == "Garcia"
+    ? choropleth(c,'#600624','#900936','#c00c48','#f00f5a','#f33f7b','#f66f9c','#f99fbd','#fccfde')
+    : "#ccc9c0";
+}
+
+/* old colors
+ return d == "Green"
     ? "#e3342f"
     : d == "King"
     ? "#f6993f"
@@ -110,7 +132,27 @@ function getColor(d) {
     : d == "Garcia"
     ? "#f66d9b"
     : "#ccc9c0";
-}
+*/
+
+choropleth =function(d,c1,c2,c3,c4,c5,c6,c7,c8){
+  return d > 0.5
+  ? c1
+  : d >0.4
+  ? c2
+  : d >0.3
+  ? c3
+  : d > 0.2
+  ? c4
+  : d > 0.15
+  ? c5
+  : d > .10
+  ? c6
+  : d > .05
+  ? c7
+  : d > 0
+  ? c8
+  : "#ccc9c0";
+};
 
 info = function (props) {
   if (toggle == "Precinct") {
