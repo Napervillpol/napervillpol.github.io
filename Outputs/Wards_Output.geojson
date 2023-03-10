@@ -12,17 +12,17 @@
       "type": "Feature",
       "properties": {
         "Ward": "1",
-        "Votes": 15036,
+        "Votes": 15037,
         "Green": 290,
         "King": 150,
         "Buckner": 643,
-        "Garcia": 2105,
+        "Garcia": 2106,
         "Johnson": 6073,
         "Lightfoot": 1245,
         "Sawyer": 49,
         "Vallas": 4129,
         "Wilson": 352,
-        "Margin": 0.12928970470869913,
+        "Margin": 0.12928110660371084,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -8028,7 +8028,7 @@
       "type": "Feature",
       "properties": {
         "Ward": "9",
-        "Votes": 10960,
+        "Votes": 10961,
         "Green": 505,
         "King": 129,
         "Buckner": 92,
@@ -8037,8 +8037,8 @@
         "Lightfoot": 4374,
         "Sawyer": 81,
         "Vallas": 1125,
-        "Wilson": 2461,
-        "Margin": 0.17454379562043795,
+        "Wilson": 2462,
+        "Margin": 0.17443663899279263,
         "Winner": "Lightfoot"
       },
       "geometry": {
@@ -9031,7 +9031,7 @@
       "type": "Feature",
       "properties": {
         "Ward": "10",
-        "Votes": 8243,
+        "Votes": 8244,
         "Green": 127,
         "King": 48,
         "Buckner": 44,
@@ -9039,9 +9039,9 @@
         "Johnson": 688,
         "Lightfoot": 665,
         "Sawyer": 12,
-        "Vallas": 2955,
+        "Vallas": 2956,
         "Wilson": 808,
-        "Margin": 0.007157588256702657,
+        "Margin": 0.00727802037845706,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -10653,17 +10653,17 @@
       "type": "Feature",
       "properties": {
         "Ward": "12",
-        "Votes": 6038,
+        "Votes": 6042,
         "Green": 103,
         "King": 24,
         "Buckner": 35,
-        "Garcia": 2723,
+        "Garcia": 2726,
         "Johnson": 867,
         "Lightfoot": 255,
         "Sawyer": 16,
-        "Vallas": 1698,
+        "Vallas": 1699,
         "Wilson": 317,
-        "Margin": 0.16975819807883405,
+        "Margin": 0.16997682886461438,
         "Winner": "Garcia"
       },
       "geometry": {
@@ -11460,17 +11460,17 @@
       "type": "Feature",
       "properties": {
         "Ward": "13",
-        "Votes": 12999,
+        "Votes": 13003,
         "Green": 98,
         "King": 55,
         "Buckner": 55,
-        "Garcia": 3372,
+        "Garcia": 3376,
         "Johnson": 782,
         "Lightfoot": 463,
         "Sawyer": 15,
         "Vallas": 7127,
         "Wilson": 1032,
-        "Margin": 0.2888683744903454,
+        "Margin": 0.28847189110205335,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -12299,17 +12299,17 @@
       "type": "Feature",
       "properties": {
         "Ward": "14",
-        "Votes": 4856,
+        "Votes": 4861,
         "Green": 73,
         "King": 22,
         "Buckner": 10,
-        "Garcia": 2669,
+        "Garcia": 2674,
         "Johnson": 460,
         "Lightfoot": 200,
         "Sawyer": 21,
         "Vallas": 1087,
         "Wilson": 314,
-        "Margin": 0.3257825370675453,
+        "Margin": 0.326476033737914,
         "Winner": "Garcia"
       },
       "geometry": {
@@ -13190,7 +13190,7 @@
       "type": "Feature",
       "properties": {
         "Ward": "15",
-        "Votes": 4931,
+        "Votes": 4932,
         "Green": 93,
         "King": 26,
         "Buckner": 13,
@@ -13198,9 +13198,9 @@
         "Johnson": 544,
         "Lightfoot": 638,
         "Sawyer": 13,
-        "Vallas": 1255,
+        "Vallas": 1256,
         "Wilson": 697,
-        "Margin": 0.08051105252484284,
+        "Margin": 0.08029197080291971,
         "Winner": "Garcia"
       },
       "geometry": {
@@ -15664,17 +15664,17 @@
       "type": "Feature",
       "properties": {
         "Ward": "17",
-        "Votes": 8376,
+        "Votes": 8378,
         "Green": 388,
         "King": 115,
         "Buckner": 64,
-        "Garcia": 384,
+        "Garcia": 385,
         "Johnson": 1282,
-        "Lightfoot": 3366,
+        "Lightfoot": 3367,
         "Sawyer": 63,
         "Vallas": 700,
         "Wilson": 2014,
-        "Margin": 0.16141356255969436,
+        "Margin": 0.16149439006922894,
         "Winner": "Lightfoot"
       },
       "geometry": {
@@ -16855,17 +16855,17 @@
       "type": "Feature",
       "properties": {
         "Ward": "18",
-        "Votes": 12181,
+        "Votes": 12185,
         "Green": 395,
         "King": 154,
         "Buckner": 97,
-        "Garcia": 1385,
+        "Garcia": 1388,
         "Johnson": 1925,
-        "Lightfoot": 3738,
+        "Lightfoot": 3739,
         "Sawyer": 81,
         "Vallas": 2381,
         "Wilson": 2025,
-        "Margin": 0.11140300467941877,
+        "Margin": 0.11144850225687321,
         "Winner": "Lightfoot"
       },
       "geometry": {
@@ -18755,17 +18755,17 @@
       "type": "Feature",
       "properties": {
         "Ward": "20",
-        "Votes": 6755,
+        "Votes": 6757,
         "Green": 346,
         "King": 152,
         "Buckner": 95,
-        "Garcia": 521,
+        "Garcia": 522,
         "Johnson": 1551,
         "Lightfoot": 2017,
         "Sawyer": 50,
         "Vallas": 647,
-        "Wilson": 1376,
-        "Margin": 0.0689859363434493,
+        "Wilson": 1377,
+        "Margin": 0.06896551724137931,
         "Winner": "Lightfoot"
       },
       "geometry": {
@@ -21221,17 +21221,17 @@
       "type": "Feature",
       "properties": {
         "Ward": "22",
-        "Votes": 4743,
+        "Votes": 4744,
         "Green": 69,
         "King": 13,
         "Buckner": 22,
-        "Garcia": 2721,
+        "Garcia": 2722,
         "Johnson": 539,
         "Lightfoot": 401,
         "Sawyer": 9,
         "Vallas": 656,
         "Wilson": 313,
-        "Margin": 0.43537845245625134,
+        "Margin": 0.4354974704890388,
         "Winner": "Garcia"
       },
       "geometry": {
@@ -23183,17 +23183,17 @@
       "type": "Feature",
       "properties": {
         "Ward": "24",
-        "Votes": 6873,
+        "Votes": 6875,
         "Green": 280,
         "King": 80,
         "Buckner": 51,
         "Garcia": 542,
         "Johnson": 1244,
-        "Lightfoot": 2489,
+        "Lightfoot": 2490,
         "Sawyer": 28,
         "Vallas": 394,
-        "Wilson": 1765,
-        "Margin": 0.1053397351956933,
+        "Wilson": 1766,
+        "Margin": 0.10530909090909091,
         "Winner": "Lightfoot"
       },
       "geometry": {
@@ -29442,17 +29442,17 @@
       "type": "Feature",
       "properties": {
         "Ward": "29",
-        "Votes": 10114,
+        "Votes": 10117,
         "Green": 249,
         "King": 106,
         "Buckner": 70,
         "Garcia": 835,
         "Johnson": 1835,
-        "Lightfoot": 3307,
+        "Lightfoot": 3309,
         "Sawyer": 19,
         "Vallas": 1983,
-        "Wilson": 1710,
-        "Margin": 0.1309076527585525,
+        "Wilson": 1711,
+        "Margin": 0.131066521696155,
         "Winner": "Lightfoot"
       },
       "geometry": {
@@ -30993,17 +30993,17 @@
       "type": "Feature",
       "properties": {
         "Ward": "30",
-        "Votes": 10570,
+        "Votes": 10571,
         "Green": 155,
         "King": 91,
         "Buckner": 176,
-        "Garcia": 2604,
+        "Garcia": 2605,
         "Johnson": 2307,
         "Lightfoot": 862,
         "Sawyer": 25,
         "Vallas": 3536,
         "Wilson": 814,
-        "Margin": 0.08817407757805108,
+        "Margin": 0.08807113801910889,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -32212,17 +32212,17 @@
       "type": "Feature",
       "properties": {
         "Ward": "31",
-        "Votes": 6769,
+        "Votes": 6772,
         "Green": 112,
         "King": 51,
         "Buckner": 95,
-        "Garcia": 2321,
+        "Garcia": 2324,
         "Johnson": 1145,
         "Lightfoot": 575,
         "Sawyer": 20,
         "Vallas": 1879,
         "Wilson": 571,
-        "Margin": 0.06529768060274782,
+        "Margin": 0.06571175428233904,
         "Winner": "Garcia"
       },
       "geometry": {
@@ -35744,17 +35744,17 @@
       "type": "Feature",
       "properties": {
         "Ward": "35",
-        "Votes": 11327,
+        "Votes": 11328,
         "Green": 225,
         "King": 71,
         "Buckner": 285,
-        "Garcia": 2102,
+        "Garcia": 2103,
         "Johnson": 5088,
         "Lightfoot": 930,
         "Sawyer": 30,
         "Vallas": 2233,
         "Wilson": 363,
-        "Margin": 0.252052617639269,
+        "Margin": 0.2520303672316384,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -40392,7 +40392,7 @@
       "type": "Feature",
       "properties": {
         "Ward": "39",
-        "Votes": 14760,
+        "Votes": 14761,
         "Green": 184,
         "King": 143,
         "Buckner": 236,
@@ -40400,9 +40400,9 @@
         "Johnson": 2973,
         "Lightfoot": 1303,
         "Sawyer": 43,
-        "Vallas": 7101,
+        "Vallas": 7102,
         "Wilson": 809,
-        "Margin": 0.27967479674796747,
+        "Margin": 0.27972359596233315,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -50130,17 +50130,17 @@
       "type": "Feature",
       "properties": {
         "Ward": "49",
-        "Votes": 11383,
+        "Votes": 11384,
         "Green": 295,
         "King": 156,
         "Buckner": 282,
-        "Garcia": 1515,
+        "Garcia": 1516,
         "Johnson": 4576,
         "Lightfoot": 1789,
         "Sawyer": 38,
         "Vallas": 2065,
         "Wilson": 667,
-        "Margin": 0.2205921110427831,
+        "Margin": 0.220572733661279,
         "Winner": "Johnson"
       },
       "geometry": {
