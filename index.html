@@ -10,8 +10,8 @@
         
        
         
-        <link rel="stylesheet" href="./CSS/normalize.css" />
-        <link rel="stylesheet" href="./CSS/styles.css" />
+        <link rel="stylesheet" href="./css/normalize.css" />
+        <link rel="stylesheet" href="./css/styles.css" />
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css"
         integrity="sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=="
         crossorigin=""/>
@@ -24,38 +24,14 @@
         <div class='container' id="map">   
             <div class="leaflet-top leaflet-right">
                 <div class = 'info'>
-                    <h1 class="header">Chicago Mayoral Election</h1>
+                    <h1 class="header">Chicago Mayoral Runoff</h1>
                     <div class="label"id ="Name">W00P00</div>
-                    <table class = "info-table">
+                    <table id ="table" class = "info-table">
                         <tr>
                             <th>&nbsp;</th>
                             <th>Candidate</th>
                             <th>Total</th>
                             <th>%</th>
-                        </tr>
-                        <tr id="Green_row">
-                            <td id ="Green_block">&nbsp;</td>
-                            <td>Ja'Mal Green</td>
-                            <td id="Green_votes">0</td>
-                            <td id ="Green_percent">0.00</td>
-                        </tr>
-                        <tr id="King_row">
-                            <td id ="King_block">&nbsp;</td>
-                            <td>Sophia King</td>
-                            <td id="King_votes">0</td>
-                            <td id="King_percent">0.00</td>
-                        </tr>
-                        <tr id="Buckner_row">
-                            <td id ="Buckner_block">&nbsp;</td>
-                            <td>Kam Buckner</td>
-                            <td id="Buckner_votes">0</td>
-                            <td id="Buckner_percent">0.00</td>
-                        </tr>
-                        <tr id="Wilson_row">
-                            <td id ="Wilson_block">&nbsp;</td>
-                            <td>Willie Wilson</td>
-                            <td id="Wilson_votes">0</td>
-                            <td id="Wilson_percent">0.00</td>
                         </tr>
                         <tr id ="Johnson_row">
                             <td id ="Johnson_block">&nbsp;</td>
@@ -69,24 +45,7 @@
                             <td id="Vallas_votes">0</td>
                             <td id="Vallas_percent">0.00</td>
                         </tr>
-                        <tr id="Lightfoot_row">
-                            <td id ="Lightfoot_block">&nbsp;</td>
-                            <td>Lori Lightfoot</td>
-                            <td id="Lightfoot_votes">0</td>
-                            <td id="Lightfoot_percent">0.00</td>
-                        </tr>
-                        <tr id="Sawyer_row">
-                            <td id ="Sawyer_block">&nbsp;</td>
-                            <td>Rod Sawyer</td>
-                            <td id="Sawyer_votes">0</td>
-                            <td id="Sawyer_percent">0.00.</td>
-                        </tr>
-                        <tr id="Garcia_row">
-                            <td id ="Garcia_block">&nbsp;</td>
-                            <td>Chuy Garcia</td>
-                            <td id="Garcia_votes">0</td>
-                            <td id="Garcia_percent">0.00</td>
-                        </tr>
+                        
                     </table> 
                     <div class="leaflet-control">
                         <div class="wrap">
@@ -101,6 +60,6 @@
         </div>
        
       
-        <script src="JS/main.js"></script>
+        <script src="js/main.js"></script>
     </body>
 </html>
