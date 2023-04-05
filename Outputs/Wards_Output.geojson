@@ -12,11 +12,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "1",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 14973,
+        "Johnson": 9251,
+        "Vallas": 5722,
+        "Margin": 0.23569091030521605,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1184,11 +1184,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "2",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 13752,
+        "Johnson": 3515,
+        "Vallas": 10237,
+        "Margin": 0.48880162885398487,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -2200,11 +2200,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "3",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 11787,
+        "Johnson": 7396,
+        "Vallas": 4391,
+        "Margin": 0.25494188512768307,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3176,11 +3176,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "4",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 12601,
+        "Johnson": 9094,
+        "Vallas": 3507,
+        "Margin": 0.4433775097214507,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4072,11 +4072,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "5",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 11299,
+        "Johnson": 8588,
+        "Vallas": 2711,
+        "Margin": 0.5201345251792194,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4976,11 +4976,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "6",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 10379,
+        "Johnson": 8409,
+        "Vallas": 1970,
+        "Margin": 0.6203873205511128,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5952,11 +5952,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "7",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 8847,
+        "Johnson": 7045,
+        "Vallas": 1802,
+        "Margin": 0.5926302701480728,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7012,11 +7012,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "8",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 12255,
+        "Johnson": 9858,
+        "Vallas": 2397,
+        "Margin": 0.608812729498164,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -7972,11 +7972,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "9",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 10458,
+        "Johnson": 8235,
+        "Vallas": 2223,
+        "Margin": 0.5748709122203098,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8968,11 +8968,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "10",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 8299,
+        "Johnson": 2567,
+        "Vallas": 5732,
+        "Margin": 0.38137124954813834,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9852,11 +9852,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "11",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 11998,
+        "Johnson": 2958,
+        "Vallas": 9040,
+        "Margin": 0.5069178196366061,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10576,11 +10576,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "12",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 5617,
+        "Johnson": 2286,
+        "Vallas": 3331,
+        "Margin": 0.18604237137261884,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11376,11 +11376,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "13",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 12672,
+        "Johnson": 2268,
+        "Vallas": 10404,
+        "Margin": 0.6420454545454546,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12208,11 +12208,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "14",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 4283,
+        "Johnson": 1748,
+        "Vallas": 2535,
+        "Margin": 0.18374970814849403,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13092,11 +13092,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "15",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 4407,
+        "Johnson": 2081,
+        "Vallas": 2326,
+        "Margin": 0.055593374177444976,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -14360,11 +14360,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "16",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 5308,
+        "Johnson": 4303,
+        "Vallas": 1005,
+        "Margin": 0.6213262999246421,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15552,11 +15552,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "17",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 8285,
+        "Johnson": 6682,
+        "Vallas": 1603,
+        "Margin": 0.6130356065178033,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16736,11 +16736,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "18",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 12021,
+        "Johnson": 7735,
+        "Vallas": 4286,
+        "Margin": 0.2869145661758589,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17620,11 +17620,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "19",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 23301,
+        "Johnson": 6076,
+        "Vallas": 17225,
+        "Margin": 0.47847731857001846,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18622,11 +18622,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "20",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 6586,
+        "Johnson": 5359,
+        "Vallas": 1227,
+        "Margin": 0.6273914363802005,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19886,11 +19886,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "21",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 13170,
+        "Johnson": 10779,
+        "Vallas": 2391,
+        "Margin": 0.6369020501138952,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21074,11 +21074,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "22",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 4314,
+        "Johnson": 2446,
+        "Vallas": 1868,
+        "Margin": 0.1339823829392675,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21602,11 +21602,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "23",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 8999,
+        "Johnson": 2036,
+        "Vallas": 6963,
+        "Margin": 0.5475052783642627,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23022,11 +23022,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "24",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 6278,
+        "Johnson": 5285,
+        "Vallas": 993,
+        "Margin": 0.6836572156737815,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23802,11 +23802,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "25",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 7706,
+        "Johnson": 4743,
+        "Vallas": 2963,
+        "Margin": 0.23098883986504024,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24698,11 +24698,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "26",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 8640,
+        "Johnson": 5560,
+        "Vallas": 3080,
+        "Margin": 0.28703703703703703,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25694,11 +25694,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "27",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 10361,
+        "Johnson": 6148,
+        "Vallas": 4213,
+        "Margin": 0.18675803493871249,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27594,11 +27594,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "28",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 6613,
+        "Johnson": 4936,
+        "Vallas": 1677,
+        "Margin": 0.49281717828519583,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29246,11 +29246,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "29",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 10009,
+        "Johnson": 6675,
+        "Vallas": 3334,
+        "Margin": 0.3337995803776601,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30790,11 +30790,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "30",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 10362,
+        "Johnson": 4346,
+        "Vallas": 6016,
+        "Margin": 0.16116579810847326,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32002,11 +32002,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "31",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 6397,
+        "Johnson": 2839,
+        "Vallas": 3558,
+        "Margin": 0.11239643582929498,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32858,11 +32858,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "32",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 15718,
+        "Johnson": 6350,
+        "Vallas": 9368,
+        "Margin": 0.19200916147092506,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33702,11 +33702,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "33",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 10189,
+        "Johnson": 6220,
+        "Vallas": 3969,
+        "Margin": 0.22092452645009325,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34434,11 +34434,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "34",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 9027,
+        "Johnson": 3638,
+        "Vallas": 5389,
+        "Margin": 0.19397363465160075,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -35506,11 +35506,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "35",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 11745,
+        "Johnson": 7879,
+        "Vallas": 3866,
+        "Margin": 0.34167730949340147,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -36578,11 +36578,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "36",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 9477,
+        "Johnson": 4676,
+        "Vallas": 4801,
+        "Margin": 0.01318982800464282,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38406,11 +38406,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "37",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 6970,
+        "Johnson": 5603,
+        "Vallas": 1367,
+        "Margin": 0.6077474892395983,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39178,11 +39178,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "38",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 13920,
+        "Johnson": 2872,
+        "Vallas": 11048,
+        "Margin": 0.5873563218390805,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -40126,11 +40126,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "39",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 14632,
+        "Johnson": 5014,
+        "Vallas": 9618,
+        "Margin": 0.31465281574630943,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41186,11 +41186,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "40",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 13370,
+        "Johnson": 7939,
+        "Vallas": 5431,
+        "Margin": 0.18758414360508602,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42294,11 +42294,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "41",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 18422,
+        "Johnson": 2334,
+        "Vallas": 16088,
+        "Margin": 0.7466073173379655,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -44514,11 +44514,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "42",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 11827,
+        "Johnson": 2936,
+        "Vallas": 8891,
+        "Margin": 0.5035089202671853,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45270,11 +45270,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "43",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 15945,
+        "Johnson": 4976,
+        "Vallas": 10969,
+        "Margin": 0.37585449984321107,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45814,11 +45814,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "44",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 15928,
+        "Johnson": 8028,
+        "Vallas": 7900,
+        "Margin": 0.00803616273229533,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46338,11 +46338,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "45",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 16529,
+        "Johnson": 4933,
+        "Vallas": 11596,
+        "Margin": 0.40310968600641295,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47806,11 +47806,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "46",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 16039,
+        "Johnson": 9699,
+        "Vallas": 6340,
+        "Margin": 0.20942702163476526,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -48370,11 +48370,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "47",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 19570,
+        "Johnson": 11280,
+        "Vallas": 8290,
+        "Margin": 0.15278487480838018,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49278,11 +49278,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "48",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 16160,
+        "Johnson": 10050,
+        "Vallas": 6110,
+        "Margin": 0.2438118811881188,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -49794,11 +49794,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "49",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 10730,
+        "Johnson": 7818,
+        "Vallas": 2912,
+        "Margin": 0.45722273998136065,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -50282,11 +50282,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "50",
-        "Votes": 0,
-        "Johnson": 0,
-        "Vallas": 0,
-        "Margin": 0.0,
-        "Winner": "Tie"
+        "Votes": 9247,
+        "Johnson": 3155,
+        "Vallas": 6092,
+        "Margin": 0.31761652427814424,
+        "Winner": "Vallas"
       },
       "geometry": {
         "type": "MultiPolygon",
