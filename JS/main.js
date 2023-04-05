@@ -97,7 +97,7 @@ function onEachFeature(feature, layer) {
 
 function getColor(d,c) {
   return d == "Johnson"
-    ? choropleth(c,'#4dc0b5','#277269','#34988c','#41beaf','#67cbbf','#8dd8cf','#b3e5df','#d9f2ef')
+    ? choropleth(c,'#600624','#900936','#c00c48','#f00f5a','#f33f7b','#f66f9c','#f99fbd','#fccfde')
     : d == "Vallas"
     ? choropleth(c,'#600624','#900936','#c00c48','#f00f5a','#f33f7b','#f66f9c','#f99fbd','#fccfde')
     : "#ccc9c0";
