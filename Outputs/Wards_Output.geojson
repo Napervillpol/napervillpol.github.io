@@ -12,10 +12,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "1",
-        "Votes": 14973,
-        "Johnson": 9251,
-        "Vallas": 5722,
-        "Margin": 0.23569091030521605,
+        "Votes": 17572,
+        "Johnson": 10952,
+        "Vallas": 6620,
+        "Margin": 0.24652856817664467,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -1184,10 +1184,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "2",
-        "Votes": 13752,
-        "Johnson": 3515,
-        "Vallas": 10237,
-        "Margin": 0.48880162885398487,
+        "Votes": 15479,
+        "Johnson": 4115,
+        "Vallas": 11364,
+        "Margin": 0.4683119064539053,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -2200,10 +2200,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "3",
-        "Votes": 11787,
-        "Johnson": 7396,
-        "Vallas": 4391,
-        "Margin": 0.25494188512768307,
+        "Votes": 13079,
+        "Johnson": 8174,
+        "Vallas": 4905,
+        "Margin": 0.24994265616637357,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -3176,10 +3176,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "4",
-        "Votes": 12601,
-        "Johnson": 9094,
-        "Vallas": 3507,
-        "Margin": 0.4433775097214507,
+        "Votes": 13740,
+        "Johnson": 9935,
+        "Vallas": 3805,
+        "Margin": 0.44614264919941776,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -4072,10 +4072,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "5",
-        "Votes": 11299,
-        "Johnson": 8588,
-        "Vallas": 2711,
-        "Margin": 0.5201345251792194,
+        "Votes": 12255,
+        "Johnson": 9333,
+        "Vallas": 2922,
+        "Margin": 0.5231334149326805,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -4976,10 +4976,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "6",
-        "Votes": 10379,
-        "Johnson": 8409,
-        "Vallas": 1970,
-        "Margin": 0.6203873205511128,
+        "Votes": 11231,
+        "Johnson": 9054,
+        "Vallas": 2177,
+        "Margin": 0.612323034458196,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -5952,10 +5952,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "7",
-        "Votes": 8847,
-        "Johnson": 7045,
-        "Vallas": 1802,
-        "Margin": 0.5926302701480728,
+        "Votes": 9756,
+        "Johnson": 7734,
+        "Vallas": 2022,
+        "Margin": 0.5854858548585485,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -7012,10 +7012,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "8",
-        "Votes": 12255,
-        "Johnson": 9858,
-        "Vallas": 2397,
-        "Margin": 0.608812729498164,
+        "Votes": 13006,
+        "Johnson": 10438,
+        "Vallas": 2568,
+        "Margin": 0.6051053359987698,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -7972,10 +7972,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "9",
-        "Votes": 10458,
-        "Johnson": 8235,
-        "Vallas": 2223,
-        "Margin": 0.5748709122203098,
+        "Votes": 11096,
+        "Johnson": 8703,
+        "Vallas": 2393,
+        "Margin": 0.5686733958183129,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -8968,10 +8968,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "10",
-        "Votes": 8299,
-        "Johnson": 2567,
-        "Vallas": 5732,
-        "Margin": 0.38137124954813834,
+        "Votes": 8620,
+        "Johnson": 2714,
+        "Vallas": 5906,
+        "Margin": 0.3703016241299304,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -9852,10 +9852,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "11",
-        "Votes": 11998,
-        "Johnson": 2958,
-        "Vallas": 9040,
-        "Margin": 0.5069178196366061,
+        "Votes": 12771,
+        "Johnson": 3347,
+        "Vallas": 9424,
+        "Margin": 0.4758437084018479,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -10576,10 +10576,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "12",
-        "Votes": 5617,
-        "Johnson": 2286,
-        "Vallas": 3331,
-        "Margin": 0.18604237137261884,
+        "Votes": 5940,
+        "Johnson": 2462,
+        "Vallas": 3478,
+        "Margin": 0.17104377104377105,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -11376,10 +11376,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "13",
-        "Votes": 12672,
-        "Johnson": 2268,
-        "Vallas": 10404,
-        "Margin": 0.6420454545454546,
+        "Votes": 13474,
+        "Johnson": 2484,
+        "Vallas": 10990,
+        "Margin": 0.6312898916431646,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -12208,10 +12208,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "14",
-        "Votes": 4283,
-        "Johnson": 1748,
-        "Vallas": 2535,
-        "Margin": 0.18374970814849403,
+        "Votes": 4503,
+        "Johnson": 1865,
+        "Vallas": 2638,
+        "Margin": 0.17166333555407506,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -13092,10 +13092,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "15",
-        "Votes": 4407,
-        "Johnson": 2081,
-        "Vallas": 2326,
-        "Margin": 0.055593374177444976,
+        "Votes": 4631,
+        "Johnson": 2223,
+        "Vallas": 2408,
+        "Margin": 0.03994817534009933,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -14360,10 +14360,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "16",
-        "Votes": 5308,
-        "Johnson": 4303,
-        "Vallas": 1005,
-        "Margin": 0.6213262999246421,
+        "Votes": 5627,
+        "Johnson": 4549,
+        "Vallas": 1078,
+        "Margin": 0.616847343166874,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -15552,10 +15552,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "17",
-        "Votes": 8285,
-        "Johnson": 6682,
-        "Vallas": 1603,
-        "Margin": 0.6130356065178033,
+        "Votes": 8721,
+        "Johnson": 7040,
+        "Vallas": 1681,
+        "Margin": 0.6144937507166609,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -16736,10 +16736,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "18",
-        "Votes": 12021,
-        "Johnson": 7735,
-        "Vallas": 4286,
-        "Margin": 0.2869145661758589,
+        "Votes": 12676,
+        "Johnson": 8186,
+        "Vallas": 4490,
+        "Margin": 0.2915746292205743,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -17620,10 +17620,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "19",
-        "Votes": 23301,
-        "Johnson": 6076,
-        "Vallas": 17225,
-        "Margin": 0.47847731857001846,
+        "Votes": 24556,
+        "Johnson": 6607,
+        "Vallas": 17949,
+        "Margin": 0.4618830428408536,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -18622,10 +18622,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "20",
-        "Votes": 6586,
-        "Johnson": 5359,
-        "Vallas": 1227,
-        "Margin": 0.6273914363802005,
+        "Votes": 7043,
+        "Johnson": 5711,
+        "Vallas": 1332,
+        "Margin": 0.6217520942780065,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -19886,10 +19886,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "21",
-        "Votes": 13170,
-        "Johnson": 10779,
-        "Vallas": 2391,
-        "Margin": 0.6369020501138952,
+        "Votes": 13948,
+        "Johnson": 11374,
+        "Vallas": 2574,
+        "Margin": 0.6309148264984227,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -21074,10 +21074,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "22",
-        "Votes": 4314,
-        "Johnson": 2446,
-        "Vallas": 1868,
-        "Margin": 0.1339823829392675,
+        "Votes": 4527,
+        "Johnson": 2572,
+        "Vallas": 1955,
+        "Margin": 0.13629335100508064,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -21602,10 +21602,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "23",
-        "Votes": 8999,
-        "Johnson": 2036,
-        "Vallas": 6963,
-        "Margin": 0.5475052783642627,
+        "Votes": 9377,
+        "Johnson": 2184,
+        "Vallas": 7193,
+        "Margin": 0.5341793750666525,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -23022,10 +23022,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "24",
-        "Votes": 6278,
-        "Johnson": 5285,
-        "Vallas": 993,
-        "Margin": 0.6836572156737815,
+        "Votes": 6931,
+        "Johnson": 5816,
+        "Vallas": 1115,
+        "Margin": 0.678257105756745,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -23802,10 +23802,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "25",
-        "Votes": 7706,
-        "Johnson": 4743,
-        "Vallas": 2963,
-        "Margin": 0.23098883986504024,
+        "Votes": 8323,
+        "Johnson": 5168,
+        "Vallas": 3155,
+        "Margin": 0.2418599062837919,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -24698,10 +24698,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "26",
-        "Votes": 8640,
-        "Johnson": 5560,
-        "Vallas": 3080,
-        "Margin": 0.28703703703703703,
+        "Votes": 9587,
+        "Johnson": 6274,
+        "Vallas": 3313,
+        "Margin": 0.3088557421508292,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -25694,10 +25694,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "27",
-        "Votes": 10361,
-        "Johnson": 6148,
-        "Vallas": 4213,
-        "Margin": 0.18675803493871249,
+        "Votes": 11463,
+        "Johnson": 6800,
+        "Vallas": 4663,
+        "Margin": 0.18642589200034895,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -27594,10 +27594,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "28",
-        "Votes": 6613,
-        "Johnson": 4936,
-        "Vallas": 1677,
-        "Margin": 0.49281717828519583,
+        "Votes": 7351,
+        "Johnson": 5494,
+        "Vallas": 1857,
+        "Margin": 0.4947626173309754,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -29246,10 +29246,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "29",
-        "Votes": 10009,
-        "Johnson": 6675,
-        "Vallas": 3334,
-        "Margin": 0.3337995803776601,
+        "Votes": 10975,
+        "Johnson": 7304,
+        "Vallas": 3671,
+        "Margin": 0.3310250569476082,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -30790,10 +30790,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "30",
-        "Votes": 10362,
-        "Johnson": 4346,
-        "Vallas": 6016,
-        "Margin": 0.16116579810847326,
+        "Votes": 11378,
+        "Johnson": 4955,
+        "Vallas": 6423,
+        "Margin": 0.1290209175602039,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -32002,10 +32002,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "31",
-        "Votes": 6397,
-        "Johnson": 2839,
-        "Vallas": 3558,
-        "Margin": 0.11239643582929498,
+        "Votes": 6896,
+        "Johnson": 3162,
+        "Vallas": 3734,
+        "Margin": 0.08294663573085846,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -32858,10 +32858,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "32",
-        "Votes": 15718,
-        "Johnson": 6350,
-        "Vallas": 9368,
-        "Margin": 0.19200916147092506,
+        "Votes": 18453,
+        "Johnson": 7660,
+        "Vallas": 10793,
+        "Margin": 0.16978269116132877,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -33702,10 +33702,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "33",
-        "Votes": 10189,
-        "Johnson": 6220,
-        "Vallas": 3969,
-        "Margin": 0.22092452645009325,
+        "Votes": 11500,
+        "Johnson": 7161,
+        "Vallas": 4339,
+        "Margin": 0.24539130434782608,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -34434,10 +34434,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "34",
-        "Votes": 9027,
-        "Johnson": 3638,
-        "Vallas": 5389,
-        "Margin": 0.19397363465160075,
+        "Votes": 10604,
+        "Johnson": 4415,
+        "Vallas": 6189,
+        "Margin": 0.16729536024141833,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -35506,10 +35506,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "35",
-        "Votes": 11745,
-        "Johnson": 7879,
-        "Vallas": 3866,
-        "Margin": 0.34167730949340147,
+        "Votes": 13150,
+        "Johnson": 8947,
+        "Vallas": 4203,
+        "Margin": 0.36076045627376424,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -36578,11 +36578,11 @@
       "type": "Feature",
       "properties": {
         "Ward": "36",
-        "Votes": 9477,
-        "Johnson": 4676,
-        "Vallas": 4801,
-        "Margin": 0.01318982800464282,
-        "Winner": "Vallas"
+        "Votes": 10588,
+        "Johnson": 5353,
+        "Vallas": 5235,
+        "Margin": 0.011144692104268984,
+        "Winner": "Johnson"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38406,10 +38406,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "37",
-        "Votes": 6970,
-        "Johnson": 5603,
-        "Vallas": 1367,
-        "Margin": 0.6077474892395983,
+        "Votes": 7404,
+        "Johnson": 5933,
+        "Vallas": 1471,
+        "Margin": 0.6026472177201513,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -39178,10 +39178,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "38",
-        "Votes": 13920,
-        "Johnson": 2872,
-        "Vallas": 11048,
-        "Margin": 0.5873563218390805,
+        "Votes": 14922,
+        "Johnson": 3326,
+        "Vallas": 11596,
+        "Margin": 0.5542152526470983,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -40126,10 +40126,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "39",
-        "Votes": 14632,
-        "Johnson": 5014,
-        "Vallas": 9618,
-        "Margin": 0.31465281574630943,
+        "Votes": 15925,
+        "Johnson": 5704,
+        "Vallas": 10221,
+        "Margin": 0.2836420722135008,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -41186,10 +41186,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "40",
-        "Votes": 13370,
-        "Johnson": 7939,
-        "Vallas": 5431,
-        "Margin": 0.18758414360508602,
+        "Votes": 15117,
+        "Johnson": 9201,
+        "Vallas": 5916,
+        "Margin": 0.21730502083746775,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -42294,10 +42294,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "41",
-        "Votes": 18422,
-        "Johnson": 2334,
-        "Vallas": 16088,
-        "Margin": 0.7466073173379655,
+        "Votes": 19532,
+        "Johnson": 2679,
+        "Vallas": 16853,
+        "Margin": 0.72568093385214,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -44514,10 +44514,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "42",
-        "Votes": 11827,
-        "Johnson": 2936,
-        "Vallas": 8891,
-        "Margin": 0.5035089202671853,
+        "Votes": 13482,
+        "Johnson": 3472,
+        "Vallas": 10010,
+        "Margin": 0.48494288681204567,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -45270,10 +45270,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "43",
-        "Votes": 15945,
-        "Johnson": 4976,
-        "Vallas": 10969,
-        "Margin": 0.37585449984321107,
+        "Votes": 18088,
+        "Johnson": 5814,
+        "Vallas": 12274,
+        "Margin": 0.35714285714285715,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -45814,10 +45814,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "44",
-        "Votes": 15928,
-        "Johnson": 8028,
-        "Vallas": 7900,
-        "Margin": 0.00803616273229533,
+        "Votes": 18319,
+        "Johnson": 9390,
+        "Vallas": 8929,
+        "Margin": 0.025165129100933457,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -46338,10 +46338,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "45",
-        "Votes": 16529,
-        "Johnson": 4933,
-        "Vallas": 11596,
-        "Margin": 0.40310968600641295,
+        "Votes": 17829,
+        "Johnson": 5585,
+        "Vallas": 12244,
+        "Margin": 0.3734926243760166,
         "Winner": "Vallas"
       },
       "geometry": {
@@ -47806,10 +47806,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "46",
-        "Votes": 16039,
-        "Johnson": 9699,
-        "Vallas": 6340,
-        "Margin": 0.20942702163476526,
+        "Votes": 17980,
+        "Johnson": 10999,
+        "Vallas": 6981,
+        "Margin": 0.22347052280311458,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -48370,10 +48370,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "47",
-        "Votes": 19570,
-        "Johnson": 11280,
-        "Vallas": 8290,
-        "Margin": 0.15278487480838018,
+        "Votes": 22241,
+        "Johnson": 13061,
+        "Vallas": 9180,
+        "Margin": 0.17449754957061284,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -49278,10 +49278,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "48",
-        "Votes": 16160,
-        "Johnson": 10050,
-        "Vallas": 6110,
-        "Margin": 0.2438118811881188,
+        "Votes": 18034,
+        "Johnson": 11403,
+        "Vallas": 6631,
+        "Margin": 0.2646112897859599,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -49794,10 +49794,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "49",
-        "Votes": 10730,
-        "Johnson": 7818,
-        "Vallas": 2912,
-        "Margin": 0.45722273998136065,
+        "Votes": 12303,
+        "Johnson": 9056,
+        "Vallas": 3247,
+        "Margin": 0.4721612614809396,
         "Winner": "Johnson"
       },
       "geometry": {
@@ -50282,10 +50282,10 @@
       "type": "Feature",
       "properties": {
         "Ward": "50",
-        "Votes": 9247,
-        "Johnson": 3155,
-        "Vallas": 6092,
-        "Margin": 0.31761652427814424,
+        "Votes": 10511,
+        "Johnson": 3593,
+        "Vallas": 6918,
+        "Margin": 0.31633526781467036,
         "Winner": "Vallas"
       },
       "geometry": {
